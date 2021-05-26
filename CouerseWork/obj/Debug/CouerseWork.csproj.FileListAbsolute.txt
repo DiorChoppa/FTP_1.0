@@ -1,0 +1,11 @@
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\bin\Debug\CouerseWork.exe.config
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\bin\Debug\CouerseWork.exe
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\bin\Debug\CouerseWork.pdb
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\obj\Debug\CouerseWork.csprojAssemblyReference.cache
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\obj\Debug\CouerseWork.Properties.Resources.resources
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\obj\Debug\CouerseWork.csproj.GenerateResource.cache
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\obj\Debug\CouerseWork.csproj.CoreCompileInputs.cache
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\obj\Debug\CouerseWork.exe
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\obj\Debug\CouerseWork.pdb
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\obj\Debug\CouerseWork.FTP.resources
+C:\Users\blessed\source\repos\CouerseWork\CouerseWork\obj\Debug\CouerseWork.Hello.resources
